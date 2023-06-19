@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riskiarihidayat&label=Profile%20views&color=0e75b6&style=flat" alt="riskiarihidayat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bangriskiari" target="blank"><img src="https://img.shields.io/twitter/follow/bangriskiari?logo=twitter&style=for-the-badge" alt="bangriskiari" /></a> </p>
+<p align="left"> <a href="https://twitter.com/riskiarihidayat" target="blank"><img src="https://img.shields.io/twitter/follow/bangriskiari?logo=twitter&style=for-the-badge" alt="bangriskiari" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, PHP**
 
